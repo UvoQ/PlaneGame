@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7c6cec1248b174a46afd311144f8ca15
+timeCreated: 1502279238
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 105859
+  packageName: LowPoly Evil Village
+  packageVersion: 1.0
+  assetPath: Assets/PolyQuest_EvilVillage/Prefabs/Fence.prefab
+  uploadId: 222781

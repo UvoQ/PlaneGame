@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4cafa71442cee12448fd34a09ad454a2
+timeCreated: 1502209656
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 105859
+  packageName: LowPoly Evil Village
+  packageVersion: 1.0
+  assetPath: Assets/PolyQuest_EvilVillage/Prefabs/Church.prefab
+  uploadId: 222781

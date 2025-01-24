@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7a00f508127f12f488dda67d6631e4b9
+timeCreated: 1514480484
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 105859
+  packageName: LowPoly Evil Village
+  packageVersion: 1.0
+  assetPath: Assets/PolyQuest_EvilVillage/Scenes/EvilVillage/LightingData.asset
+  uploadId: 222781

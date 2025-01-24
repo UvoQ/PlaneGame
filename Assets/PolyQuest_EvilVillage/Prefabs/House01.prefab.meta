@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 13c460bf575265f46b33749b250aa01d
+timeCreated: 1502207026
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 105859
+  packageName: LowPoly Evil Village
+  packageVersion: 1.0
+  assetPath: Assets/PolyQuest_EvilVillage/Prefabs/House01.prefab
+  uploadId: 222781

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 70ffcf3353666524084f310ea70d161b
+timeCreated: 1502303969
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 105859
+  packageName: LowPoly Evil Village
+  packageVersion: 1.0
+  assetPath: Assets/PolyQuest_EvilVillage/Prefabs/Cage.prefab
+  uploadId: 222781

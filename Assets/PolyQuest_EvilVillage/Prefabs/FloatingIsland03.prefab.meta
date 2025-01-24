@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d58fb2a7aef22894daa48a05f62a3a9b
+timeCreated: 1510521314
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 105859
+  packageName: LowPoly Evil Village
+  packageVersion: 1.0
+  assetPath: Assets/PolyQuest_EvilVillage/Prefabs/FloatingIsland03.prefab
+  uploadId: 222781
